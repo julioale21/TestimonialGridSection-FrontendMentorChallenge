@@ -1,0 +1,57 @@
+$font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
+
+$primary:#733FC8;
+$success: #49556B;
+$dark: #18202D;
+$secondary: #EDF2F8;
+$h4-font-size: 1.7rem;
+$h5-font-size: 1.45rem;
+$h6-font-size: 1rem;
+
+.text-gray {
+    color: #bdc3c7;
+}
+
+.text-gray-200 {
+    color: #a0a4a7;
+}
+
+.text-gray-400 {
+    color: #6b6c6d;
+}
+
+.text-gray-600 {
+    color: #4d4f50;
+}
+
+
+@media (min-width: 992px) {
+    .height-100 {
+        height: 100vh;
+    }
+}
+
+.d-flex img {
+    width: 50px
+}
+
+.background-card {
+    background-image: url('../images/bg-pattern-quotation.svg') ;
+    background-repeat: no-repeat;
+    background-position: 85% top;
+}
+
+
+$container-min-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";

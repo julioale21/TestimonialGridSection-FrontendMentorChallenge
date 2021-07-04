@@ -1,0 +1,23 @@
+{
+  "name": "frontend-mentor-challenger-testimonials-grid-section",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html --output sass/reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/julioale21/frontend-mentor-challenger-testimonials-grid-section.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/julioale21/frontend-mentor-challenger-testimonials-grid-section/issues"
+  },
+  "homepage": "https://gitlab.com/julioale21/frontend-mentor-challenger-testimonials-grid-section#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
