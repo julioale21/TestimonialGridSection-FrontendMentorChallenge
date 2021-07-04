@@ -1,6 +1,6 @@
 # Frontend Mentor Challenger - Testimonials grid section
 
-Frontend mentor challenger![Testimonials_grid_section_coding_challenge](./images/Testimonials_grid_section_coding_challenge.png)
+Frontend mentor challenger![Testimonials_grid_section_coding_challenge](./images/testimonials.png)
 https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7
 
 ##### Description:
